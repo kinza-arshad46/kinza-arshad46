@@ -22,7 +22,7 @@ I'm a Data Science student passionate about transforming data into actionable in
 - 🔭 Currently focused on Data Science, Machine Learning and moving toward **Data Engineering & AI Engineering**
 - ❤️ Love solving real-world problems with data
 - 📈 Strong believer in continuous learning and building in public — giving my 100% and taking one step of growth every day
-- 🏆 Certified in **Python** and **Tableau**
+- 🏆 Certified in **Python** and **Tableau** and **Data Analytics** and **Data Cleaning**
 
 ---
 
